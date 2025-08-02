@@ -44,15 +44,7 @@ Frontend Developer with hands-on expertise in **React.js**, **Flutter**, and **F
 
 ---
 
-## 🐍 Contribution Game
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/motayyabb/motayyabb/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/motayyabb/motayyabb/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/motayyabb/motayyabb/output/github-snake.svg"/>
-  </picture>
-</p>
 
 *Automated every 12 hours via GitHub Actions.* :contentReference[oaicite:7]{index=7}
 
