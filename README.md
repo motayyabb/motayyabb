@@ -1,27 +1,30 @@
-<h1 align="center">Hi 👋, I'm Motayyab Jabbar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋%2C%20I'm%20Motayyab%20Jabbar;Software%20Engineer%20from%20Pakistan;React%20%7C%20Flutter%20%7C%20Firebase%20Developer;&center=true&width=500&height=45&color=FFBF00&vCenter=true&size=22&pause=1000" />
+</p>
+
 <h3 align="center">A passionate Software Engineer | Frontend Developer | Flutter Enthusiast from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <a href="mailto:motayyab341@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/motayyab-jabbar-77534625a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=motayyabb&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 **BS Software Engineering**, COMSATS University Islamabad, Vehari Campus (2021–2025)  
+🎓 **BS Software Engineering**, COMSATS University Islamabad, Vehari Campus  
 💼 Frontend Developer (React.js, Flutter) | Firebase Enthusiast | UI/UX Designer  
-🧠 Always learning: Node.js, MongoDB, SEO & Backend Architecture  
-📬 **Email:** [motayyab341@gmail.com](mailto:motayyab341@gmail.com)
+🧠 Currently learning: Node.js, MongoDB, Backend API Design  
+📬 Email: [motayyab341@gmail.com](mailto:motayyab341@gmail.com)
 
 ---
 
-## 🧑‍💻 Current Projects
+## 🧑‍💻 Projects
 
 - 🌍 **Tour & Travel Marketplace** — MERN Stack  
-- 📱 **Campus Life Assistant App** — Flutter + Firebase  
-- 📝 **TaskTrack App** — Flutter + SQLite  
+- 📱 **TaskTrack App** — Flutter + SQLite  
 
 ---
 
@@ -56,17 +59,21 @@
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn Profile](https://linkedin.com/in/motayyab-jabbar-77534625a)
+- 🔗 [LinkedIn](https://linkedin.com/in/motayyab-jabbar-77534625a)  
 - 📧 [Email](mailto:motayyab341@gmail.com)
 
 ---
 
 ## ✍️ Quote of the Day
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*
+## 🐍 Contribution Graph (Snake)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/motayyabb/motayyabb/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
