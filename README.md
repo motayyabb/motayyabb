@@ -17,11 +17,7 @@ Frontend Developer with hands-on expertise in **React.js**, **Flutter**, and **F
 
 ---
 
-## 🧑‍💻 Featured Project
 
-**Tour & Travel Marketplace** (MERN Stack) – A full-stack booking platform with responsive UI, role-based dashboards, payment integration, and Firebase notifications.
-
----
 
 ## 🛠 Tech Stack  
 
@@ -42,11 +38,6 @@ Frontend Developer with hands-on expertise in **React.js**, **Flutter**, and **F
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motayyabb&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
----
-
-
-
-*Automated every 12 hours via GitHub Actions.* :contentReference[oaicite:7]{index=7}
 
 ---
 
